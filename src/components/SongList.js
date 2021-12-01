@@ -1,5 +1,5 @@
 import React from "react";
-import ChartItem from "./ChartItem";
+
 import SongDetail from "./SongDetail";
 
 const songList = ({songs}) => {
